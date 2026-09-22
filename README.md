@@ -1,0 +1,2 @@
+# ProjetoMundoSenai
+Aura + Ego
