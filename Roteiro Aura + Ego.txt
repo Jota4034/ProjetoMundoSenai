@@ -1,0 +1,5 @@
+Roteiro mega roteirados
+
+o nosso jogo/projeto para o Mundo Senai é o jogo Between Shadows sendo um jogo 2D de "metroidvania" com mecânicas simples de movimentação e combate, esse jogo se passa em um mundo anteriormente pacífico porém que foi invadido  por espécies desconhecidas de aliens com a forma de gosmas com objetivos maliciosos e tendencias violentas. A humanidade sem esperança coloca um jovem com um cachecol modificado que consegue ferir esses seres para então ser o herói da humanidade frente a essa ameaça .
+
+Fizemos o jogo na Unity usando scripts em C# enquanto fazíamos os sprites manualmente, isso custou muito tempo e sanidade mental então agradeça por poder testar essa bomba. 
